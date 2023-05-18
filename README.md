@@ -1,6 +1,6 @@
 # cutoff-selection
 
-### Code for a data analysis and simulation study comparing cutoff selection methods for diagnostic tests 
+### Code for Estimating cutoff values for diagnostic tests with extreme value theory (Pugh, Fosdick, Nehring, Gallichotte, VandeWoude, and Wilson)
 
 **data-analysis.R**: Estimates cutoffs for COVID-19 spike and RBD ELISA test data
 
